@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020.06.17 12:18:52.258,=D:\Users\Varkan\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020.06.17 12:18:52.501,=D:\Users\Varkan\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020.06.17 12:32:26.786,D:\Users\Varkan\Documents\C++Builder Projects\Clicker\temp1\Unit1.dfm=D:\Users\Varkan\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020.06.17 12:32:26.786,D:\Users\Varkan\Documents\C++Builder Projects\Clicker\temp1\Unit1.h=D:\Users\Varkan\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2020.06.17 12:32:26.786,D:\Users\Varkan\Documents\C++Builder Projects\Clicker\temp1\Unit1.cpp=D:\Users\Varkan\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020.06.17 12:32:27.996,D:\Users\Varkan\Documents\C++Builder Projects\Clicker\temp1\Project1PCH1.h=D:\Users\Varkan\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020.06.17 12:32:29.079,D:\Users\Varkan\Documents\C++Builder Projects\Clicker\temp1\Project1.cbproj=D:\Users\Varkan\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

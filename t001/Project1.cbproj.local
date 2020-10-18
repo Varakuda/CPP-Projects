@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.518,=D:\Users\Varkan\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.572,D:\Users\Varkan\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=D:\Users\Varkan\Documents\Embarcadero\Studio\Projects\t001\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.732,D:\Users\Varkan\Documents\Embarcadero\Studio\Projects\Project1.cbproj=D:\Users\Varkan\Documents\Embarcadero\Studio\Projects\t001\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.671,D:\Users\Varkan\Documents\Embarcadero\Studio\Projects\Unit1.cpp=D:\Users\Varkan\Documents\Embarcadero\Studio\Projects\t001\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.671,D:\Users\Varkan\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Users\Varkan\Documents\Embarcadero\Studio\Projects\t001\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.671,D:\Users\Varkan\Documents\Embarcadero\Studio\Projects\Unit1.h=D:\Users\Varkan\Documents\Embarcadero\Studio\Projects\t001\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.093,=D:\Users\Varkan\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
